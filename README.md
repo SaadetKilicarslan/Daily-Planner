@@ -1,5 +1,3 @@
-![image](https://github.com/ucarica/Daily-Planner/assets/140449815/73fd919a-71b3-40a7-9161-5c784da90305)
-
 # Daily Planner Chrome Extension
 
 A simple daily planner Chrome extension that allows you to manage your daily tasks.
@@ -17,6 +15,9 @@ A simple daily planner Chrome extension that allows you to manage your daily tas
 ## Description
 
 This is a simple Chrome extension that provides a basic daily planner interface. You can add, complete, and remove tasks easily.
+
+![image](https://github.com/ucarica/Daily-Planner/assets/140449815/73fd919a-71b3-40a7-9161-5c784da90305)
+
 
 ## Features
 
